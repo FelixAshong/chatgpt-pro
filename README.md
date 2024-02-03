@@ -6,11 +6,11 @@ ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DA
 
 ### Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/EyuCoder/chatgpt-clone)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/FelixAshong/chatgpt-pro.git)
 
 ### Deploy to Vercel
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/EyuCoder/chatgpt-clone&project-name=chatgpt-and-dalle&repo-name=chatgpt-clone)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/FelixAshong/chatgpt-pro.git&project-name=chatgpt-and-dalle&repo-name=chatgpt-pro)
 
 _you can checkout the app [here](https://chatgpt.eyucoder.com/)_
 
@@ -53,6 +53,6 @@ npm run dev
 - react-icons
 - react-markdown
 
-## 📝 License © [FLOWIFY](https://linkedin.com/in/eyuel-daniel)
+## 📝 License © [FLOWIFY](https://linkedin.com/in/felixashong)
 
 > This project is released under the Apache License 2.0 license. See [LICENSE](./LICENSE) for details.
